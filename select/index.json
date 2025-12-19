@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕が僕を愛せるように君が君を愛せるように",
+  "base_artist": "夜紗",
+  "createdAt": "2025-12-19T11:46:11.722727Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕が僕を愛せるように君が君を愛せるように (feat. 初音ミク)",
+      "artist": "夜紗",
+      "has_synced": false,
+      "path": "select/pl_01_僕が僕を愛せるように君が君を愛せるように_(feat._初音ミク)_夜紗.txt"
+    }
+  ]
+}
